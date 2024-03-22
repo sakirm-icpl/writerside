@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="invinsense-agent" type="CompoundRunConfigurationType" folderName="New Folder">
+    <toRun name="PDF (hi)" type="StardustRunConfiguration" />
+    <method v="2" />
+  </configuration>
+</component>
